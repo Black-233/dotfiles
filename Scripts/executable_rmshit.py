@@ -13,7 +13,6 @@ shittyfiles = [
     '~/.nv/',
     '~/.java/',
     '~/.oracle_jre_usage/',
-    '~/.mozilla/',
     '~/.local/share/Trash/'                 # Vscode中删除的文件会放在这
 ]
 
