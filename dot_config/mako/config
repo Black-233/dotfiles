@@ -1,0 +1,27 @@
+# Colors
+background-color=#24273a
+text-color=#cad3f5
+border-color=#8aadf4
+progress-color=#363a4f #over
+
+# Font
+font="Jetbrains Mono Nerd Font" 18
+
+# Area
+width=450
+height=150
+
+# Icon
+icons=1
+max-icon-size=128
+
+# Border
+border-size=4
+border-radius=10
+
+# Timeout
+#ignore-timeout=1
+default-timeout=5000
+
+[urgency=high]
+border-color=#f5a97f
