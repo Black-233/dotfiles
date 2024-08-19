@@ -40,6 +40,8 @@ alias ls='ls -l --color=auto'
 alias py='python'
 alias fetch='fastfetch'
 
+eval $(thefuck --alias)
+
 export EDITOR='nvim'
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh

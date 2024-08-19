@@ -5,11 +5,11 @@ border-color=#8aadf4
 progress-color=#363a4f #over
 
 # Font
-font="Jetbrains Mono Nerd Font" 18
+font="Jetbrains Mono Nerd Font" 14
 
 # Area
-width=450
-height=150
+width=360
+height=140
 
 # Icon
 icons=1
