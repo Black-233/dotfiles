@@ -9,15 +9,15 @@ font="Jetbrains Mono Nerd Font" 14
 
 # Area
 width=360
-height=140
+height=120
 
 # Icon
 icons=1
-max-icon-size=128
+max-icon-size=100
 
 # Border
-border-size=4
-border-radius=10
+border-size=3
+border-radius=8
 
 # Timeout
 #ignore-timeout=1
