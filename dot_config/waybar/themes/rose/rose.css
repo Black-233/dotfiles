@@ -1,12 +1,11 @@
 * {
-  font-family: "Iosevka Nerd Font";
+  font-family: "Jetbrains Mono Nerd Font";
   font-weight: bold;
   font-size: 20px;
-  border: none;
 }
 
 window#waybar {
-  background: rgba(21, 18, 27, 0.5);
+  background: rgba(21, 18, 27, 0);
   color: #e0def4;
 }
 
@@ -58,6 +57,7 @@ tooltip {
 
 #temperature {
   color: #f6c177;
+  border-radius: 8px 0px 0px 8px;
 }
 
 #temperature.critical {
@@ -67,6 +67,7 @@ tooltip {
 #backlight {
   color: #e0def4;
   margin-right: 10px;
+  border-radius: 0px 8px 8px 0px;
 }
 
 #tray {
@@ -77,6 +78,7 @@ tooltip {
 #workspaces {
   background: #232136;
   margin-left: 10px;
+  border-radius: 8px;
 }
 
 #window {
@@ -96,13 +98,16 @@ window#waybar.empty #window {
 #clock {
   color: #e0def4;
   margin-left: 10px;
+  border-radius: 8px;
 }
 
 #wireplumber {
   color: #c4a7e7;
+  border-radius: 8px 0px 0px 8px;
 }
 
 #battery {
   color: #9ccfd8;
   margin-right: 10px;
+  border-radius: 0px 8px 8px 0px;
 }
