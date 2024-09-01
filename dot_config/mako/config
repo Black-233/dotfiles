@@ -8,15 +8,15 @@ progress-color=#363a4f #over
 font="Jetbrains Mono Nerd Font" 14
 
 # Area
-width=360
+width=340
 height=120
 
 # Icon
 icons=1
-max-icon-size=100
+max-icon-size=80
 
 # Border
-border-size=3
+border-size=2
 border-radius=8
 
 # Timeout

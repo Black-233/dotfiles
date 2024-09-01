@@ -7,8 +7,8 @@ SAVEHIST=500
 
 # User Scripts
 function proxyon () {
-  export http_proxy='http://192.168.10.8:7890'
-  export https_proxy='http://192.168.10.8:7890'
+  export http_proxy='http://192.168.1.1:7892'
+  export https_proxy='http://192.168.1.1:7892'
   echo 'Terminal proxy has be setted!'
 }
 
